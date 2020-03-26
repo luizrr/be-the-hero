@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="427933d3-5781-423d-b323-5d4fd83d77bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/omnistack11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend" afterDir="false" />
-    </list>
+    <list default="true" id="427933d3-5781-423d-b323-5d4fd83d77bb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../frontend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../PROJETOS/covid-zero" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -57,7 +48,7 @@
       <workItem from="1585014666946" duration="1349000" />
       <workItem from="1585016215025" duration="1076000" />
       <workItem from="1585056790389" duration="10000" />
-      <workItem from="1585106376485" duration="8503000" />
+      <workItem from="1585106376485" duration="9116000" />
     </task>
     <servers />
   </component>
@@ -69,9 +60,9 @@
       <screen x="-170" y="-1080" width="1920" height="1040" />
     </state>
     <state x="528" y="-758" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-170.-1080.1920.1040@-170.-1080.1920.1040" timestamp="1585108849462" />
-    <state x="570" y="-805" key="FileChooserDialogImpl" timestamp="1585016690867">
+    <state x="570" y="-805" key="FileChooserDialogImpl" timestamp="1585115768402">
       <screen x="-170" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="570" y="-805" key="FileChooserDialogImpl/0.0.1366.728/-170.-1080.1920.1040@-170.-1080.1920.1040" timestamp="1585016690867" />
+    <state x="570" y="-805" key="FileChooserDialogImpl/0.0.1366.728/-170.-1080.1920.1040@-170.-1080.1920.1040" timestamp="1585115768402" />
   </component>
 </project>
