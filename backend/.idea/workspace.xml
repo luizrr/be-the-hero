@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="427933d3-5781-423d-b323-5d4fd83d77bb" name="Default Changelist" comment="" />
+    <list default="true" id="427933d3-5781-423d-b323-5d4fd83d77bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knexfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/knexfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/OngController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/OngController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/connection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/db.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,8 +38,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../PROJETOS/covid-zero" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../frontend" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -49,6 +61,7 @@
       <workItem from="1585016215025" duration="1076000" />
       <workItem from="1585056790389" duration="10000" />
       <workItem from="1585106376485" duration="9116000" />
+      <workItem from="1585350661331" duration="12579000" />
     </task>
     <servers />
   </component>
@@ -56,13 +69,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="528" y="-758" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585108849462">
+    <state x="528" y="-758" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585362702243">
       <screen x="-170" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="528" y="-758" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-170.-1080.1920.1040@-170.-1080.1920.1040" timestamp="1585108849462" />
-    <state x="570" y="-805" key="FileChooserDialogImpl" timestamp="1585115768402">
+    <state x="528" y="-758" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-170.-1080.1920.1040@-170.-1080.1920.1040" timestamp="1585362702243" />
+    <state x="570" y="-805" key="FileChooserDialogImpl" timestamp="1585363644069">
       <screen x="-170" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="570" y="-805" key="FileChooserDialogImpl/0.0.1366.728/-170.-1080.1920.1040@-170.-1080.1920.1040" timestamp="1585115768402" />
+    <state x="570" y="-805" key="FileChooserDialogImpl/0.0.1366.728/-170.-1080.1920.1040@-170.-1080.1920.1040" timestamp="1585363644069" />
   </component>
 </project>
